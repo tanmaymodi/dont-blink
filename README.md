@@ -39,3 +39,6 @@ For example:
 ### This game is designed to simulate real world environment, focusing skills, memory power and how fast you adapt the change in conditions!!
 
 ##WIsh you great time ahead!!!👋
+
+
+### android version and PPT of the game project will be added soon(1day approx)
