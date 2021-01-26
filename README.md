@@ -17,7 +17,7 @@
 
 
 # 7 Different Levels
-### each of them dipicts some Real Idle World environment
+### each of them dipicts some Real World Idle environment or Fictional Attributes
 ![Level Map](https://github.com/tanmaymodi/dont-blink/blob/main/db3.png)
 
 For example:
