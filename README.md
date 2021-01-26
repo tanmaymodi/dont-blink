@@ -41,4 +41,4 @@ For example:
 ##WIsh you great time ahead!!!👋
 
 
-### android version and PPT of the game project will be added soon(1day approx)
+### android version of the game will be added soon(1day approx)
