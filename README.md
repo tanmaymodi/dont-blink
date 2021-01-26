@@ -4,7 +4,8 @@
 ### Come and play, Learn and fun
 ![Game](https://github.com/tanmaymodi/dont-blink/blob/main/db1.png)
 
-<img height="300px",width="300px",src="https://github.com/tanmaymodi/dont-blink/blob/main/logo.png"></img?
+![logo](https://github.com/tanmaymodi/dont-blink/blob/main/logo.png)
+
 ## Instructions to Play!⚽ Online
 
 - Go to: https://tanmaymodi.github.io/dont-blink/
