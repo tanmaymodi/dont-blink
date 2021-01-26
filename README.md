@@ -3,7 +3,7 @@
 
 ### Come and play, Learn and fun
 ![Game](https://github.com/tanmaymodi/dont-blink/blob/main/db1.png)
-
+#Logo
 ![logo](https://github.com/tanmaymodi/dont-blink/blob/main/logo.png)
 
 ## Instructions to Play!⚽ Online
