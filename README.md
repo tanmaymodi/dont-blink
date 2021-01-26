@@ -1,6 +1,6 @@
 # dont-blink
 ### Hi there 👋.
-### Come and play Learn and fun
+### Come and play, Learn and fun
 ![Game](https://github.com/tanmaymodi/dont-blink/blob/main/db1.png)
 
 
