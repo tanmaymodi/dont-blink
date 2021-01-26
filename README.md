@@ -18,7 +18,7 @@
 
 # 7 Different Levels
 ### each of them dipicts some Real Idle World environment
-![Level Map]{https://github.com/tanmaymodi/dont-blink/blob/main/db3.png}
+![Level Map](https://github.com/tanmaymodi/dont-blink/blob/main/db3.png)
 
 For example:
 # In Space Level:
