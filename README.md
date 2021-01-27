@@ -42,4 +42,19 @@ For example:
 ##WIsh you great time ahead!!!👋
 
 
-### android version of the game will be added soon(1day approx)
+Answers of each level:
+
+- Space = rig
+
+- Snow = pink
+
+- Castle = blue
+
+- Sky = two
+
+- Jungle = four
+
+- Pirate = six
+
+- Underwater = five
+
