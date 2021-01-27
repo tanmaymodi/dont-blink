@@ -43,10 +43,18 @@ For example:
 
 
 Answers of each level:
-Space = rig
-Snow = pink
-Castle = blue
-Sky = two
-Jungle = four
-Pirate = six
-Underwater = five
+
+- Space = rig
+
+- Snow = pink
+
+- Castle = blue
+
+- Sky = two
+
+- Jungle = four
+
+- Pirate = six
+
+- Underwater = five
+
